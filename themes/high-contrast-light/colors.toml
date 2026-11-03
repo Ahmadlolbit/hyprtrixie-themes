@@ -1,9 +1,10 @@
 mode = "light"
 
-accent = "#0040a0"
-selection = "#6aa0ff"
+accent = "#00008b"
+selection = "#8cb0f8"
 selection_foreground = "#000000"
 muted = "#3a3a3a"
+subtext = "#000000"
 
 background = "#ffffff"
 dark_background = "#f0f0f0"
